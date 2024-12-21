@@ -1,0 +1,31 @@
+Spotify Question 
+
+Q1. Reterieve the names of all tracks that have more than 9 million streams.
+
+
+Q2. List all albums along with their respective artist.
+
+
+Q.3 Count the Total Number of Tracks by each Artist.
+
+
+Q.4. Get the Total Number of Comments for Tracks where Licensed = FALSE.
+
+
+Q.5 Find all Tracks that belongs to the Album type Single.
+
+
+Q.6 Calcuate the Average Danceability of Tracks in each Album.
+
+
+Q.7 Find the Top 5 Tracks with the Highest Energy values
+
+
+Q.8 Each Album, Calculate the Total Views of all Assosiated Tracks.
+
+
+Q.9 Reterieve the Track Names that have been Streamed on Spotify more than YouTube.
+
+
+Q.10 Write a query to find Tracks where the Liveness Score is above the Average.
+
